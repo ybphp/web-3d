@@ -7,7 +7,7 @@
 
 ## 目录：
 * 1 VR系列
-   * [1.1 css3d](css3d看房)
-   * [1.2 pano2vr](pano2vr看房)
-   * [1.3 threejs](threejs看房)
-   * [1.4 threejs_bmw](threejs看车)
+   * [1.1 VR看房(css3d)](css3d)
+   * [1.2 VR看房(pano2vr)](pano2vr)
+   * [1.3 VR看房(threejs)](threejs)
+   * [1.4 VR看车(threejs)](threejs_bmw)
